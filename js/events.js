@@ -5,5 +5,5 @@ $(document).ready(function(){
 // call functions here
 
 });
-$('p').click
-
+$('p').on("click", function(){
+})
