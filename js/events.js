@@ -1,9 +1,9 @@
 //define functions here
 
-$(document).ready(function(){
+$(document).ready(function(getIt){
 
 // call functions here
 
 });
-$('p').on("click", function(){
+$('p').on("click", function(getIt){
 })
